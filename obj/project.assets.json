@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adm1\\source\\!IPZ_2025\\Lec_IPZ_2_0_0_1\\Lec_IPZ_2_1.csproj",
+      "projectUniqueName": "C:\\Users\\adm1\\source\\IPZ2025\\L2\\InfraL2\\Lec_IPZ_2_1.csproj",
       "projectName": "Lec_IPZ_2_1",
-      "projectPath": "C:\\Users\\adm1\\source\\!IPZ_2025\\Lec_IPZ_2_0_0_1\\Lec_IPZ_2_1.csproj",
+      "projectPath": "C:\\Users\\adm1\\source\\IPZ2025\\L2\\InfraL2\\Lec_IPZ_2_1.csproj",
       "packagesPath": "C:\\Users\\adm1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adm1\\source\\!IPZ_2025\\Lec_IPZ_2_0_0_1\\obj\\",
+      "outputPath": "C:\\Users\\adm1\\source\\IPZ2025\\L2\\InfraL2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adm1\\AppData\\Roaming\\NuGet\\NuGet.Config",

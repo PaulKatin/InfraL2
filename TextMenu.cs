@@ -55,7 +55,7 @@ namespace Lec_IPZ_2_1
 
         static void Choiсe3()
         {
-                Console.WriteLine("Choiсe3");
+                Console.WriteLine("Choiсe3");// add comment
         }
     }
 }
