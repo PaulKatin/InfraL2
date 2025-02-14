@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lec_IPZ_2_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ad911a2cab5562eaa7f97d3350878aa450443ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lec_IPZ_2_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lec_IPZ_2_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
